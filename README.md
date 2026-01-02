@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Tesnim 👋
 
-<!--
-**TesnimGulsen/TesnimGulsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I work on **data-driven products** that turn raw data into **actionable insights**.  
+My experience spans **media analytics, NLP, user behavior analysis and scalable data pipelines**.
 
-Here are some ideas to get you started:
+I enjoy building:
+- End-to-end **data pipelines**
+- **LLM-powered NLP solutions**
+- **User segmentation & forecasting models**
+- Clean, reproducible, production-ready projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Areas of Focus
+- Natural Language Processing (Sentiment, Topic Modeling, LLM-based personalized solutions )
+- User Analytics (Segmentation, Churn, Forecasting)
+- Applied Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, C#, Python, SQL  
+**ML / NLP:** Scikit-learn, PyTorch, Transformers, BERT, GPT  
+**Databases:** MySQL, MongoDB, Neo4j, BigQuery  
+**Cloud & Tools:** Docker, Azure, GCP, Databricks  
+
+---
+
+## 📌 Featured Projects
+🔹 **LLM-based Sentiment & Topic Analysis**  
+🔹 **User Segmentation & Churn Prediction**  
+🔹 **Lakehouse Architecture with Azure & Databricks**  
+🔹 **Custom Internal Chatbots for Analytics Teams**
+
+👉 Check my pinned repositories below ⬇️
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TesnimGulsen&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TesnimGulsen&layout=compact)
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: https://linkedin.com/in/tesnimgulsen/
+- 🌍 Portfolio: https://TesnimGulsen.github.io
