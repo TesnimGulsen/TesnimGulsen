@@ -1,6 +1,6 @@
 # Hi, I'm Tesnim 👋
 
-## 🚀 About Me
+## About Me
 I work on **data-driven products** that turn raw data into **actionable insights**.  
 My experience spans **media analytics, NLP, user behavior analysis and scalable data pipelines**.
 
@@ -12,7 +12,7 @@ I enjoy building:
 
 ---
 
-## 🧠 Areas of Focus
+## Areas of Focus
 - Natural Language Processing (Sentiment, Topic Modeling, LLM-based personalized solutions )
 - User Analytics (Segmentation, Churn, Forecasting)
 - Applied Machine Learning
