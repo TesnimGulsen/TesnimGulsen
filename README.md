@@ -33,13 +33,11 @@ I enjoy building:
 🔹 **Lakehouse Architecture with Azure & Databricks**  
 🔹 **Custom Internal Chatbots for Analytics Teams**
 
-👉 Check my pinned repositories below ⬇️
-
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TesnimGulsen&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TesnimGulsen&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TesnimGulsen&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TesnimGulsen&layout=compact&count_private=true)
 
 ---
 
